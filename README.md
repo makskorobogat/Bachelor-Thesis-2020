@@ -9,4 +9,4 @@ To close any of the programs, just press CTRL + C in the console, which will int
 
 I would also like to add that I also created a similar application for tracking faces in C++ using TensorFlow. But it is not as well implemented as Python, so I am uploading only Python version to Github. But keep in mind that it is also possible to track faces and objects with TensorFlow in C++. There are many other projects by other people that have implemented this well on C++.
 
-Have fun!
+Have fun!!
